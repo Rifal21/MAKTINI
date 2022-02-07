@@ -8,6 +8,12 @@
 #contact {
   background-color: #a2d9ff;
 }
+#about {
+  background-color: #a2d9ff;
+}
+#project {
+  background-color: #fff;
+}
 section {
   padding-top: 5rem;
 }
@@ -28,7 +34,7 @@ section {
   transform-style: preserve-3d;
 }
 .rubik-box::before {
-  content: "MY";
+  content: "MAK";
   position: absolute;
   color: #fff;
   font-size: 6em;
@@ -45,7 +51,7 @@ section {
 }
 
 .rubik-box::after {
-  content: "CUBE";
+  content: "DONUTS";
   position: absolute;
   color: #fff;
   font-size: 6em;
